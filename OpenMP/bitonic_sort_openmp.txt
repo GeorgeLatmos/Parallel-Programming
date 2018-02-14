@@ -1,0 +1,3 @@
+BITONIC SORT ALGORITHM. 
+
+There are two implementations for the bitonic sort algorithm. The first one is done in serial, while the other is done in parallel using the openmp library.
